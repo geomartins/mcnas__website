@@ -35,8 +35,8 @@
                                             </div>
                                         </div>
                                         <div class="featured-title">
-                                            <h5>58 BalSouth Lane,Harward Street</h5>
-                                            <h4>NewYork 33025</h4>
+                                            <h5>{{ config('app.address_1')}}</h5>
+                                            <h4>{{ config('app.address_2') }}</h4>
                                         </div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
@@ -49,7 +49,7 @@
                                             </div>
                                         </div>
                                         <div class="featured-title">
-                                            <h5>info@domainname.com</h5>
+                                            <h5>{{ config('app.email') }}</h5>
                                             <h4>Need support? Drop us an email</h4>
                                         </div>
                                     </div>
@@ -63,7 +63,7 @@
                                             </div>
                                         </div>
                                         <div class="featured-title">
-                                            <h5>+123 456 78910 / 11</h5>
+                                            <h5> {{ config('app.telephone') }} </h5>
                                             <h4>Have a question? call us now</h4>
                                         </div>
                                     </div>
@@ -77,7 +77,7 @@
                                             </div>
                                         </div>
                                         <div class="featured-title">
-                                            <h5>Mon – Sat 07:00 – 21:00</h5>
+                                            <h5>{{ config('app.opening_hour') }}</h5>
                                             <h4>We are open on</h4>
                                         </div>
                                     </div>
@@ -88,10 +88,10 @@
                                 </div>
                                 <div class="social-icons circle social-hover">
                                     <ul class="list-inline">
-                                        <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                        <li class="social-gplus"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="" data-tooltip="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                        <li class="social-facebook"><a class="tooltip-top" target="_blank" href="{{config('app.facebook') }}" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="{{config('app.twitter') }}" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li class="social-gplus"><a class=" tooltip-top" target="_blank" href="{{ config('app.instagram') }}" data-tooltip="Instagram"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="{{ config('app.linkedin') }}" data-tooltip="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

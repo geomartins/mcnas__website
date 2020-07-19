@@ -18,7 +18,7 @@
                     <div class="col-lg-12">
                         <div class="mb-35">
                             <h2 class="ttm-textcolor-skincolor ">Frequently Asked Questions</h2>
-                            <p>Below you’ll find answers to some of the most frequently asked questions at Tectxon. We are constantly adding most asked question to this page so if you have a question and don’t see your answer, don’t hesitate to email us at <a href="#">info@example.com</a></p>
+                            <p>Below you’ll find answers to some of the most frequently asked questions at {{ config('app.name') }}. We are constantly adding most asked question to this page so if you have a question and don’t see your answer, don’t hesitate to email us at <a href="mailto:{{config('app.email')}}">{{ config('app.email') }}</a></p>
                         </div>
                         <!-- wrap-acadion -->
                         <div class="wrap-acadion">

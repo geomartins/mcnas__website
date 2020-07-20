@@ -108,18 +108,22 @@
                                 </div>
                                 <div class="title-desc">We offer extensive medical procedures to outbound and inbound patients what it is and we are very proud of achievpatients for recovery</div>
                             </div><!-- section title end -->
-                            <form id="ttm-contactform" class="ttm-contactform wrap-form clearfix" method="post" action="#">
+                            
+                            @includeIf('layouts.error_template')
+
+                            <form  class="ttm-contactform wrap-form clearfix" method="post" action="/contact-us">
+                              {{ csrf_field() }}
                                 <label>
-                                    <span class="text-input"><i class="ttm-textcolor-skincolor ti-user"></i><input name="your-name" type="text" value="" placeholder="Your Name" required="required"></span>
+                                    <span class="text-input"><i class="ttm-textcolor-skincolor ti-user"></i><input name="fullname" type="text" value="" placeholder="Your Name" required="required"></span>
                                 </label>
                                 <label>
-                                    <span class="text-input"><i class="ttm-textcolor-skincolor ti-mobile"></i><input name="your-phone" type="text" value="" placeholder="Cell Phone" required="required"></span>
+                                    <span class="text-input"><i class="ttm-textcolor-skincolor ti-mobile"></i><input name="phone" type="text" value="" placeholder="Cell Phone" required="required"></span>
                                 </label>
                                 <label>
                                     <span class="text-input"><i class="ttm-textcolor-skincolor ti-email"></i><input name="email" type="email" value="" placeholder="Email" required="required"></span>
                                 </label>
                                 <label>
-                                    <span class="text-input"><i class="ttm-textcolor-skincolor ti-location-pin"></i><input name="venue" type="text" value="" placeholder="Venue" required="required"></span>
+                                    <span class="text-input"><i class="ttm-textcolor-skincolor ti-email"></i><input name="subject" type="text" value="" placeholder="Subject" required="required"></span>
                                 </label>
                                 <label>
                                     <span class="text-input"><i class="ttm-textcolor-skincolor ti-comment"></i><textarea name="message" cols="40" rows="3" placeholder="Message" required="required"></textarea></span>

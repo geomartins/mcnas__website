@@ -14,9 +14,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 
+
 Route::get("/" , "homepageController@index");
 Route::get("/faq" , "homepageController@faq");
 Route::get("/contact-us" , "homepageController@contactUs");
+Route::post("/contact-us" , "homepageController@contactUsConfirm");
 Route::get("/about-us" , "homepageController@aboutUs");
 Route::get("/our-services" , "homepageController@ourServices");
 Route::get("/job-order" , "homepageController@job_order");
@@ -33,3 +35,23 @@ Route::get("/digital-offset-machine" , "homepageController@digital_offset_machin
 Route::get("/website-development" , "homepageController@website_development");
 Route::get("/mobile-app-development" , "homepageController@mobile_app_development");
 
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+
+
+
+// Auth::routes();
+
+// Route::get('/home', 'HomeController@index')->name('home');
+
+// Auth::routes();
+
+// Route::get('/home', 'HomeController@index')->name('home');
+
+// Auth::routes();
+
+// Route::get('/home', 'HomeController@index')->name('home');

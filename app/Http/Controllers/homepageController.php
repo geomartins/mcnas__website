@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\contact_history;
 use Mail;
-
 class homepageController extends Controller
 {
     
@@ -13,7 +12,8 @@ class homepageController extends Controller
         return view('welcome');
     }
     public function faq(){
-        return view("faq");
+        $datas = \App\Repositories\Pick::getFaq();
+        return view("faq")->with('datas',$datas);
     }
 
 

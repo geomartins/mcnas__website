@@ -133,7 +133,7 @@
 											<!--<![endif]-->
 											<div class="img-container center  autowidth " align="center" style="padding-right: 25px;padding-left: 25px;">
 												<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 25px;padding-left: 25px;" align="center"><![endif]-->
-												<!-- <div style="font-size:1px;line-height:25px">&nbsp;</div><img class="center  autowidth " align="center" border="0" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/546940_528074/sano.png" alt="Image" title="Image" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 161px; display: block;" width="161">-->
+												<!-- <div style="font-size:1px;line-height:25px">&nbsp;</div><img class="center  autowidth " align="center" border="0" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/546940_528074/sano.png" alt="Image" title="Image" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 161px; display: block;" width="161">
 												<div style="font-size:1px;line-height:25px">&nbsp;</div>
 												<!--[if mso]></td></tr></table><![endif]-->
 											</div>

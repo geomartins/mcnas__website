@@ -1116,3 +1116,11 @@
 	}
 
 }
+
+
+
+@media (min-width: 600px) and (max-width: 2000px){
+
+	.site-branding img{ max-height: 35px; }
+
+}

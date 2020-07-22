@@ -43,7 +43,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">A Medical Care 
+                            data-paddingleft="[0,0,0,0]">A Digital Care 
                         </div>
 
                         <div class="tp-caption slide-main-text tp-resizeme" id="slide-1-layer-9" data-x="['left','left','center','center']" data-hoffset="['50','40','0','0']" data-y="['top','top','top','top']" data-voffset="['398','271','170','134']"
@@ -82,10 +82,10 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">I realized that becoming a doctor, I can only help a small community. But by<br> becoming a doctor, I can help my whole country. 
+                            data-paddingleft="[0,0,0,0]">I realized that becoming a digital expert, I can only help a small community. But by<br> becoming a digital expert, I can help my whole country. 
                         </div>
 
-                        <a class="tp-caption dark-flatborder-button tp-resizeme" href="#" target="_self" id="slide-1-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['208','151','70','52']"
+                        <a class="tp-caption dark-flatborder-button tp-resizeme" href="/about-us" target="_self" id="slide-1-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['208','151','70','52']"
 
                             data-fontsize="['13','13','13','11']"
                             data-lineheight="['13','13','13','11']"
@@ -105,7 +105,7 @@
                             data-paddingleft="[30,30,30,25]">VIEW MORE DETAILS 
                         </a>
 
-                        <a class="tp-caption skin-flat-button tp-resizeme" href="#" target="_self" id="slide-1-layer-15" data-x="['left','left','center','center']" data-hoffset="['278','251','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['208','151','142','112']"
+                        <a class="tp-caption skin-flat-button tp-resizeme" href="/contact-us" target="_self" id="slide-1-layer-15" data-x="['left','left','center','center']" data-hoffset="['278','251','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['208','151','142','112']"
 
                             data-fontsize="['13','13','13','11']"
                             data-lineheight="['19','19','19','16']"
@@ -186,7 +186,7 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">Trusted Health Care 
+                            data-paddingleft="[0,0,0,0]">Trusted Digital Care 
                         </div>
 
                         <div class="tp-caption slide-desc-text tp-resizeme"  id="slide-2-layer-10" data-x="['left','left','center','left']" data-hoffset="['50','40','-664','-579']" data-y="['top','top','top','top']" data-voffset="['500','362','214','233']"
@@ -206,10 +206,10 @@
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">I realized that becoming a doctor, I can only help a small community. But by<br> becoming a doctor, I can help my whole country. 
+                            data-paddingleft="[0,0,0,0]">I realized that becoming a digital marketer, I can only help a small community. But by<br> becoming a digital marketer, I can help my whole country. 
                         </div>
 
-                        <a class="tp-caption dark-flatborder-button" href="#" target="_self" id="slide-2-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['220','151','60','52']"
+                        <a class="tp-caption dark-flatborder-button" href="/about-us" target="_self" id="slide-2-layer-14" data-x="['left','left','center','center']" data-hoffset="['50','41','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['220','151','60','52']"
 
                             data-fontsize="['13','13','13','11']"
                             data-lineheight="['13','13','13','11']"
@@ -228,46 +228,9 @@
                             data-paddingleft="[30,30,30,25]">VIEW MORE DETAILS 
                         </a>
 
-                        <a class="tp-caption shape-round ttm-video-icon ttm_prettyphoto" href="https://youtu.be/e13TGGccvT4" target="_self" id="slide-2-layer-15" data-x="['left','left','center','center']" data-hoffset="['289','251','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['220','151','126','112']"
+                        
 
-                            data-fontsize="['18','18','15','15']"
-                            data-lineheight="['58','58','50','50']"
-                            data-letterspacing="['0','0','1','1']"
-                            data-color="['rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)','rgb(255, 255, 255)']"
-                            data-width="['58','58','50','50']"
-                            data-height="['58','58','50','50']"
-                            data-whitespace="nowrap"
-                            data-type="text"
-                            data-actions=''
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":1190,"speed":500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['center','center','center','center']"
-                            data-paddingtop="[,,,]"
-                            data-paddingright="[,,,]"
-                            data-paddingbottom="[,,,]"
-                            data-paddingleft="[,,,]"><i class="fa fa-play"></i> 
-                        </a>
-
-                        <div class="tp-caption tp-resizeme"  id="slide-2-layer-17" data-x="['left','left','center','center']" data-hoffset="['358','321','0','-396']" data-y="['middle','middle','middle','middle']" data-voffset="['220','151','164','133']"
-
-                            data-fontsize="['13','13','13','13']"
-                            data-lineheight="['13','13','13','13']"
-                            data-letterspacing="['1','1','1','1']"
-                            data-fontweight="['700','700','700','700']"
-                            data-color="['rgb(0, 46, 58)','rgb(0, 46, 58)','rgb(0, 46, 58)','rgb(0, 46, 58)']"
-                            data-width="none"
-                            data-height="none"
-                            data-whitespace="nowrap"
-                            data-visibility="['on','on','on','off']"
-                            data-type="text"
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":1190,"speed":500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]">HOW WE WORK 
-                        </div>
+                       
                     </li>
                 </ul>
             </div>

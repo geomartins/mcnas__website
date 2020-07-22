@@ -7,12 +7,16 @@
 
 @endsection
 
+@section('slider')
+    @includeIf('layouts.slider')
+@endsection
+
 
 
 @section("main_content")
 
   <!--only-title-section-->
-  <section class="ttm-row only-title-section ttm-bgcolor-darkgrey clearfix" style="margin-top: 7rem">
+  <section class="ttm-row only-title-section ttm-bgcolor-darkgrey clearfix" style="margin-top: 0rem">
             <div class="container">
                 <!-- row -->
                <div class="row">
@@ -20,13 +24,13 @@
                         <!-- section-title -->
                         <div class="section-title with-desc clearfix">
                             <div class="title-header">
-                                <h2 class="title">Our Latest Products</h2>
+                                <h2 class="title">Our Trending services</h2>
                             </div>
-                            <div class="title-desc">Since its founding Delmont has been providing its patients with the full medical care, encompassing outpatients services, is neurology, laboratory, imaging diagnostics and more.</div>
+                            <div class="title-desc">Since its founding {{ config('app.name') }} has been providing its client with uninterrupted digital services such as advertising, printing, strategic branding and more.</div>
                         </div><!-- section-title end -->
                     </div>
                     <div class="col-lg-3 col-md-12">
-                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mb-30 mt-45 res-991-mt-0 float-right" href="#">MORE PRODUCTS</a>
+                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mb-30 mt-45 res-991-mt-0 float-right" href="/job-order">JOB ORDER</a>
                     </div>
                 </div><!-- row end -->
                 <div class="row">
@@ -51,41 +55,20 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                   
+                                    <div class="product-btn"><a href="/advertising" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <div class="onsale">Sale!</div>
+                                    {{-- <div class="onsale">Sale!</div> --}}
                                     <img class="img-fluid" src="images/product/product-one.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/advertising">
                                     <h2>Advertising</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price">
-                                    <del><span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>20.00
-                                        </span>
-                                    </del>
-                                    <ins><span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>18.00
-                                        </span>
-                                    </ins>
-                                </span>
+                              
                             </div>
                         </div>
                     </div><!-- product end-->
@@ -95,11 +78,7 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                    <div class="product-btn"><a href="/strategic-branding" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
@@ -107,21 +86,10 @@
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/strategic-branding">
                                     <h2>Strategic Branding</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price"><span class="product-Price-amount">
-                                    <span class="product-Price-currencySymbol">$</span>18.00</span>
-                                </span>
+                                
                             </div>
                         </div>
                     </div><!-- product end -->
@@ -131,41 +99,19 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                    <div class="product-btn"><a href="/exclusive-gift-pack" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <div class="onsale">Sale!</div>
+                                    {{-- <div class="onsale">Sale!</div> --}}
                                     <img class="img-fluid" src="images/product/product-three.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/exclusive-gift-pack">
                                     <h2>Exclusive Gift Pack </h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price">
-                                    <del><span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>3.00
-                                        </span>
-                                    </del>
-                                    <ins><span class="product-Price-amount">
-                                            <span class="product-Price-currencySymbol">$</span>2.00
-                                        </span>
-                                    </ins>
-                                </span>
+                                
                             </div>
                         </div>
                     </div><!-- product end -->
@@ -175,11 +121,7 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                    <div class="product-btn"><a href="/distinctive-award" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
@@ -187,21 +129,10 @@
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/distinctive-award">
                                     <h2>Distinctive Award</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price"><span class="product-Price-amount">
-                                    <span class="product-Price-currencySymbol">$</span>15.00</span>
-                                </span>
+                                
                             </div>
                         </div>
                     </div><!-- product end -->
@@ -211,11 +142,8 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                   
+                                    <div class="product-btn"><a href="/prints" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
@@ -223,21 +151,10 @@
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/prints">
                                     <h2>Prints</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price"><span class="product-Price-amount">
-                                    <span class="product-Price-currencySymbol">$</span>20.00</span>
-                                </span>
+                                
                             </div>
                         </div>
                     </div><!-- product end -->
@@ -247,11 +164,8 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                   
+                                    <div class="product-btn"><a href="/digital-offset-machine" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
@@ -259,21 +173,10 @@
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/digital-offset-machine">
                                     <h2>Digital & Offset Machine</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price"><span class="product-Price-amount">
-                                    <span class="product-Price-currencySymbol">$</span>25.00</span>
-                                </span>
+                               
                             </div>
                         </div>
                     </div><!-- product end -->
@@ -283,33 +186,20 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
+                                    
+                                    <div class="product-btn"><a href="/website-development" class="search-btn"><i class="ti ti-eye"></i></a>
                                     </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
-                                    </div>
+                                   
                                 </div>
                                 <div class="ttm-product-image-box">
                                     <img class="img-fluid" src="images/product/product-seven.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/website-development">
                                     <h2>Website Development</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price"><span class="product-Price-amount">
-                                    <span class="product-Price-currencySymbol">$</span>45.00</span>
-                                </span>
+                                
                             </div>
                         </div>
                     </div><!-- product end -->
@@ -319,11 +209,9 @@
                             <!-- ttm-product-box-inner -->
                             <div class="ttm-product-box-inner">
                                 <div class="ttm-shop-icon">
-                                    <div class="product-btn"><a href="#" class="add-to-cart-btn"><i class="ti ti-shopping-cart"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="search-btn"><i class="ti ti-search"></i></a>
-                                    </div>
-                                    <div class="product-btn"><a href="#" class="wishlist-btn"><i class="ti ti-heart"></i></a>
+                                    
+                                   
+                                    <div class="product-btn"><a href="/mobile-app-development" class="wishlist-btn"><i class="ti ti-eye"></i></a>
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
@@ -331,21 +219,10 @@
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
-                                <a class="ttm-product-title" href="product-details.html">
+                                <a class="ttm-product-title" href="/mobile-app-development">
                                     <h2>Mobile App Development</h2>
                                 </a>
-                                <div class="star-ratings">
-                                    <ul class="rating">
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                        <li><i class="fa fa-star"></i></li>
-                                    </ul>
-                                </div>
-                                <span class="price"><span class="product-Price-amount">
-                                    <span class="product-Price-currencySymbol">$</span>90.00</span>
-                                </span>
+                               
                             </div>
                         </div>
                     </div><!-- product end -->

@@ -1217,7 +1217,7 @@ body{ counter-reset: section; }
     -webkit-transition: opacity .5s;
     transition: opacity .5s;
     background-color: rgba(3,59,74,.9);
-    border: 8px solid #01d6a3;
+    border: 8px solid #a63994;
     border-bottom: none;
 }
 .featured-imagebox-team.ttm-team-box-view-overlay:hover .ttm-box-view-overlay{

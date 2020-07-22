@@ -81,7 +81,6 @@
                             <ul id="menu-footer-quick-links">
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/about-us">About Us</a></li>
-                                <li><a href="/services">Services</a></li>
                                 <li><a href="/faq">Faq</a></li>
                                 <li><a href="/gallery">Gallery</a></li>
                             </ul>

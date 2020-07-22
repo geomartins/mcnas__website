@@ -133,7 +133,7 @@
                     <div class="ttm-fid-contents">
                         <h4><span   data-appear-animation = "animateDigits"
                                     data-from             = "0"
-                                    data-to               = "152"
+                                    data-to               = "9520"
                                     data-interval         = "5"
                                     data-before           = ""
                                     data-before-style     = "sup"
@@ -142,7 +142,7 @@
                                 >152
                             </span>
                         </h4>
-                        <h3 class="ttm-fid-title"><span>Hospitals Rooms<br></span></h3>
+                        <h3 class="ttm-fid-title"><span>Completed Projects<br></span></h3>
                     </div><!-- ttm-fid-contents end -->
                 </div>
             </div>
@@ -199,9 +199,9 @@
                 <div class="section-title with-desc clearfix">
                     <div class="title-header">
                         <h5>MEET OUR EXPERIENCED TEAM</h5>
-                        <h2 class="title">Our Dedicated Doctors Team</h2>
+                        <h2 class="title">Our Dedicated Team</h2>
                     </div>
-                    <div class="title-desc">We offer extensive medical procedures to outbound and inbound patients what it is and we are very proud of achievement of our staff, We are all work together to help our all patients for recovery</div>
+                    <div class="title-desc">We offer extensive  procedures to outbound and inbound patients what it is and we are very proud of achievement of our staff, We are all work together to help our all patients for recovery</div>
                 </div><!-- section-title end -->
             </div>
             <div class="col-lg-2 col-md-2"></div>
@@ -220,9 +220,9 @@
                         </div>
                     </div>
                     <div class="featured-content featured-content-team">
-                        <div class="ttm-team-position">Senior Dr. at Delmont</div>
+                        <div class="ttm-team-position">Graphic Designer</div>
                         <div class="featured-title">
-                            <h5><a href="team-details.html">Dr. Metthew Wood</a></h5>
+                            <h5><a href="team-details.html">Martins Abiodun</a></h5>
                         </div>
                     </div>
                 </div><!-- featured-imagebox-team end-->
@@ -237,9 +237,9 @@
                         </div>
                     </div>
                     <div class="featured-content featured-content-team">
-                        <div class="ttm-team-position">Cardiologist Specialist</div>
+                        <div class="ttm-team-position">Animation Specialist</div>
                         <div class="featured-title">
-                            <h5><a href="team-details.html">Dr. Roy Coleman</a></h5>
+                            <h5><a href="team-details.html">Emmanuel Olayomi</a></h5>
                         </div>
                     </div>
                 </div><!-- featured-imagebox-team end-->
@@ -254,9 +254,9 @@
                         </div>
                     </div> 
                     <div class="featured-content featured-content-team">
-                        <div class="ttm-team-position">Neurology Specialist</div>
+                        <div class="ttm-team-position">Mobile App developer</div>
                         <div class="featured-title">
-                            <h5><a href="team-details.html">Dr. Andrew Bert</a></h5>
+                            <h5><a href="team-details.html">Tolani Williams</a></h5>
                         </div>
                     </div>
                 </div><!-- featured-imagebox-team end-->
@@ -271,29 +271,13 @@
                         </div>
                     </div>
                     <div class="featured-content featured-content-team">
-                        <div class="ttm-team-position">Senior Рathologist</div>
+                        <div class="ttm-team-position">Chief Financial Officer</div>
                         <div class="featured-title">
-                            <h5><a href="team-details.html">Dr. Teresa Mayer</a></h5>
+                            <h5><a href="team-details.html">Dr Dora Williams</a></h5>
                         </div>
                     </div>
                 </div><!-- featured-imagebox-team end-->
-                <!-- featured-imagebox-team -->
-                <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
-                    <div class="featured-thumbnail">
-                        <img class="img-fluid" src="images/team-member/team-img05.jpg" alt="image"> 
-                    </div>
-                    <div class="ttm-box-view-overlay">
-                        <div class="featured-iconbox ttm-media-link">
-                            <a class="ttm_prettyphoto ttm_image" data-gal="prettyPhoto[gallery1]" title="spring-renovation" href="images/portfolio/05.jpg" data-rel="prettyPhoto"><i class="ti ti-plus"></i></a>
-                        </div>
-                    </div>
-                    <div class="featured-content featured-content-team">
-                        <div class="ttm-team-position">Senior Dr. at Delmont</div>
-                        <div class="featured-title">
-                            <h5><a href="team-details.html">Dr. Robert Burton</a></h5>
-                        </div>
-                    </div>
-                </div><!-- featured-imagebox-team end-->
+                
             </div>
         </div><!-- row end -->
     </div>

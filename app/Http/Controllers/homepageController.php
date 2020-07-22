@@ -85,7 +85,9 @@ class homepageController extends Controller
 
 
     public function gallery(){
-        abort(404);
+        $datas = \App\Repositories\Pick::getGallery();
+
+        return view('gallery')->with('datas',$datas);
     }
     public function job_order(){
         abort(404);

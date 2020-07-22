@@ -25,4 +25,45 @@ class Pick{
         return $datas;
 
     }
+
+
+    public static function getGallery(){
+        $datas = collect([
+            (object) [
+                'id' => '1',
+                'title' => 'Printing Machine',
+                'featured_image' => 'images/portfolio/01.jpg'
+            ],
+            (object) [
+                'id' => '2',
+                'title' => 'Commisioning of Machine',
+                'featured_image' => 'images/portfolio/01.jpg'
+            ],
+            (object) [
+                'id' => '3',
+                'title' => 'Printing Machine',
+                'featured_image' => 'images/portfolio/01.jpg'
+            ],
+            (object) [
+                'id' => '4',
+                'title' => 'Commisioning of Machine',
+                'featured_image' => 'images/portfolio/01.jpg'
+            ],
+
+            (object) [
+                'id' => '5',
+                'title' => 'Printing Machine',
+                'featured_image' => 'images/portfolio/01.jpg'
+            ],
+            (object) [
+                'id' => '6',
+                'title' => 'Commisioning of Machine',
+                'featured_image' => 'images/portfolio/01.jpg'
+            ],
+
+        ])->all();
+
+        return $datas;
+
+    }
 }

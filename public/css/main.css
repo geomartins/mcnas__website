@@ -619,7 +619,7 @@ section.error-404 .ttm-big-icon,
 .products .price .product-Price-amount,
 .products .star-ratings ul li,
 div.product .summary .star-rating {
-    color: #a63994;
+    color: #fff;
 }
 
 /** Skin-bg-color **/
@@ -1375,6 +1375,8 @@ ul.ttm-pricelist-block li .service-price {
     line-height: 19px;
     letter-spacing: 1px;
 }
+
+
 #site-header-menu #site-navigation .menu > ul li ul li a{
     font-family: "Ubuntu",Arial,Helvetica,sans-serif;
     font-weight: 400;
@@ -1462,7 +1464,7 @@ ul.ttm-pricelist-block li .service-price {
     line-height: 17px;
     font-size: 9px;
     display: block;
-    background-color: #00d6a3;
+    background-color: #a63994;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1734,7 +1736,7 @@ ul.ttm-recent-post-list li:after {
     line-height: 1em;
     font-size: 14px;
     content: "";
-    background-color: #a63994;
+    background-color: #fff;
     width: 11px;
     height: 1px;
     position: absolute;
@@ -2755,3 +2757,4 @@ section.error-404 .page-content p { font-size: 18px; margin-bottom: 30px; }
     height: 400px;
     width: 100%;
 }
+

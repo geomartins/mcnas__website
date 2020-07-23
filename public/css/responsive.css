@@ -154,7 +154,7 @@
 	    text-align:center;
 	    margin-left:-5px;
 	}
-	#site-header-menu #site-navigation .sep-img{ background-color:#00d6a3 ;}
+	#site-header-menu #site-navigation .sep-img{ background-color:#a63994 ;}
 	#site-header-menu .fixed-header #site-navigation .sep-img{top:-5px}
 	#site-header-menu #site-navigation .menu > ul > li:hover > a:before {opacity:1}
 	.ttm-header-style-infostack #site-header-menu #site-navigation .sep-img{ 
@@ -229,7 +229,7 @@
 	    top: 0;
 	    bottom: auto;
 	    left: 0;
-	    background-color: #00d6a3;
+	    background-color: #a63994;
 	    -webkit-transition: all 0.3s ease;
 	    -moz-transition: all 0.3s ease;
 	    -ms-transition: all 0.3s ease;

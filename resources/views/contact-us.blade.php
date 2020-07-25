@@ -17,8 +17,8 @@
                 <div class="row">
                     <div class="col-lg-5">
                         <!-- testimonial-box -->
-                        <div class="ttm-col-bgcolor-yes ttm-bg ttm-bgcolor-skincolor ttm-textcolor-white spacing-8">
-                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                        <div class="ttm-col-bgcolor-yes ttm-bg ttm-bgcolor-skincolor ttm-textcolor-white spacing-8" >
+                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer" style="background-color: #025748"></div>
                             <div class="layer-content">
                                 <h3>Do You want to Reach at the next Level of business Success?</h3>
                                 <p>Book a Complimentary Appointment by Visiting or calling Us!</p>

@@ -93,10 +93,10 @@ class homepageController extends Controller
         abort(404);
     }
     public function advertising(){
-        abort(404);
+        return view('advertising');
     }
     public function strategic_branding(){
-        abort(404);
+        return view('strategic_branding');
     }
     public function exclusive_gift_pack(){
         abort(404);

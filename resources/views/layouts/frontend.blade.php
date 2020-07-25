@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Boldman Infostack &raquo; Comments Feed HTML Template" />
-<meta name="author" content="https://www.themetechmount.com/" />
+<meta name="keywords" content="Mcnas" />
+<meta name="description" content="Mcnas " />
+<meta name="author" content="https://www.nairafox.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <title> @yield("title") </title>
 
 <!-- favicon icon -->
-<link rel="shortcut icon" href="images/favicon.png" />
+<link rel="shortcut icon" href="images/favicon.jpeg" />
 
 <!-- bootstrap -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>

@@ -15,7 +15,7 @@
 <!--error-404 start-->
 <section class="error-404">
     <div class="ttm-big-icon">
-        <i class="fa fa-thumbs-o-down"></i>
+        <i class="fa fa-thumbs-o-down" style="color: #033b4a"></i>
     </div>
     <header class="page-header"><h1 class="page-title">404 ERROR</h1></header>
     <div class="page-content"> <p>This page may have been moved or deleted. Be sure to check your spelling.</p></div>

@@ -81,6 +81,10 @@ class homepageController extends Controller
         return view("services");
     }
 
+    public function book_appointment(){
+        return view('book_appointment');
+    }
+
 
 
 

@@ -92,6 +92,7 @@
                             <ul id="menu-footer-quick-links">
                                 <li><a href="/">Contact Us</a></li>
                                 <li><a href="/job-order">Job Order</a></li>
+                                <li><a href="/book-appointment">Book Appointment</a></li>
                             </ul>
                         </div>
                     </div>

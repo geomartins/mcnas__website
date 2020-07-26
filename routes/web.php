@@ -23,6 +23,7 @@ Route::get("/about-us" , "homepageController@aboutUs");
 Route::get("/our-services" , "homepageController@ourServices");
 Route::get("/job-order" , "homepageController@job_order");
 Route::get("/gallery" , "homepageController@gallery");
+Route::get("/book-appointment" , "homepageController@book_appointment");
 
 
 

@@ -29,7 +29,7 @@ Route::get("/gallery" , "homepageController@gallery");
 Route::get("/advertising" , "homepageController@advertising");
 Route::get("/strategic-branding" , "homepageController@strategic_branding");
 Route::get("/exclusive-gift-pack" , "homepageController@exclusive_gift_pack");
-Route::get("/distintive-award" , "homepageController@distintive_award");
+Route::get("/distinctive-award" , "homepageController@distinctive_award");
 Route::get("/prints" , "homepageController@prints");
 Route::get("/digital-offset-machine" , "homepageController@digital_offset_machine");
 Route::get("/website-development" , "homepageController@website_development");

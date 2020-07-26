@@ -2,12 +2,11 @@
 
 @section("title")
 
-  {{ config("app.name") }}  | Strategic Branding
-
+  {{ config("app.name") }}  | Digital Offset Machine
 @endsection
 
 @section("breadcrumb")
-    @includeIf("layouts.breadcrumb", ["title" => "Strategic Branding" , "subtitle" => "Strategic Branding"])
+    @includeIf("layouts.breadcrumb", ["title" => "Digital Offset Machine" , "subtitle" => "Digital Offset Machine"])
 @endsection
 
 @section("main_content")
@@ -99,8 +98,8 @@
                     <!-- ttm_single_image-wrapper -->
                     <div class="ttm_single_image-wrapper res-575-mb-15">
                          <div class="twentytwenty-container">
-                            <img src="/images/after-img-one.jpg" alt="before" >
-                            <img src="/images/before-img-one.jpg" alt="after" >
+                            <img src="images/after-img-one.jpg" alt="before" >
+                            <img src="images/before-img-one.jpg" alt="after" >
                         </div>
                     </div><!-- ttm_single_image-wrapper end -->
                 </div>
@@ -108,8 +107,8 @@
                     <!-- ttm_single_image-wrapper -->
                     <div class="ttm_single_image-wrapper res-575-mb-15">
                          <div class="twentytwenty-container">
-                            <img src="/images/after-img-two.jpg" alt="before" >
-                            <img src="/images/before-img-two.jpg" alt="after" >
+                            <img src="images/after-img-two.jpg" alt="before" >
+                            <img src="images/before-img-two.jpg" alt="after" >
                         </div>
                     </div><!-- ttm_single_image-wrapper end -->
                 </div>
@@ -117,8 +116,8 @@
                     <!-- ttm_single_image-wrapper -->
                     <div class="ttm_single_image-wrapper">
                          <div class="twentytwenty-container">
-                            <img src="/images/after-img-one.jpg" alt="before" >
-                            <img src="/images/before-img-one.jpg" alt="after" >
+                            <img src="images/after-img-one.jpg" alt="before" >
+                            <img src="images/before-img-one.jpg" alt="after" >
                         </div>
                     </div><!-- ttm_single_image-wrapper end -->
                 </div>

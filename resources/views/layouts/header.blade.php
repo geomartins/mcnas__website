@@ -179,7 +179,7 @@
                                                 <li><a href="/advertising">Advertising</a></li>
                                                 <li><a href="/strategic-branding">Strategic Branding</a></li>
                                                 <li><a href="/exclusive-gift-pack">Exclusive Gift Pack</a></li>
-                                                <li><a href="/distintive-award">Distinctive Award</a></li>
+                                                <li><a href="/distinctive-award">Distinctive Award</a></li>
                                                 <li><a href="/prints">Prints</a></li>
                                                 <li><a href="/digital-offset-machine">Digital & Offset Machine</a></li>
                                                 <li><a href="/website-development">Website Development</a></li>

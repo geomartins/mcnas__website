@@ -99,22 +99,22 @@ class homepageController extends Controller
         return view('strategic_branding');
     }
     public function exclusive_gift_pack(){
-        abort(404);
+        return view('exclusive_gift_pack');
     }
-    public function distintive_award(){
-        abort(404);
+    public function distinctive_award(){
+        return view('distinctive_award');
     }
     public function prints(){
-        abort(404);
+        return view('prints');
     }
     public function digital_offset_machine(){
-        abort(404);
+        return view('digital_offset_machine');
     }
-    public function website_developmen(){
-        abort(404);
+    public function website_development(){
+        return view('website_development');
     }
     public function mobile_app_development(){
-        abort(404);
+       return view('mobile_app_development');
     }
 
 

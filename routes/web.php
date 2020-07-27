@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Spatie\Sitemap\SitemapGenerator;
+//use Spatie\Sitemap\SitemapGenerator;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,7 +16,7 @@ use Spatie\Sitemap\SitemapGenerator;
 
 
 // Route::get('/sitemap', function(){
-//     SitemapGenerator::create('https://mcnas.com.ng/')->writeToFile('sitemap.xml');
+//     SitemapGenerator::create('https://mcnas.com.ng')->writeToFile('sitemap.xml');
 //     return 'Sitemap created';
 // });
 

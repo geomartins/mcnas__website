@@ -15,10 +15,10 @@ use Spatie\Sitemap\SitemapGenerator;
 */
 
 
-Route::get('/sitemap', function(){
-    SitemapGenerator::create('https://mcnas.com.ng/')->writeToFile('sitemap.xml');
-    return 'Sitemap created';
-});
+// Route::get('/sitemap', function(){
+//     SitemapGenerator::create('https://mcnas.com.ng/')->writeToFile('sitemap.xml');
+//     return 'Sitemap created';
+// });
 
 Route::get("/" , "homepageController@index");
 Route::get("/faq" , "homepageController@faq");

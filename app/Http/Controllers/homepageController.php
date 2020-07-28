@@ -31,6 +31,7 @@ class homepageController extends Controller
             'phone' => 'required|min:9',
             'subject' => 'required',
             'message' => 'required',
+            'g-recaptcha-response' => 'required|captcha'
         
         ));
 

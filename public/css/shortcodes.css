@@ -307,7 +307,7 @@
     margin-bottom: 10px;
 }
 .section-title.with-desc { margin-bottom: 40px; }
-.section-title.with-desc .title-desc{ margin-top: 6px; display: inline-block; }
+.section-title.with-desc .title-desc{ margin-top: 6px; display: inline-block;  margin-bottom: 0.6rem;}
 
 
 /* ===============================================

@@ -681,6 +681,10 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
     background-color: #a63994;
 }
 
+.ttm-list-icon-color-skincolor i{
+    color: rgba(41, 46, 49, 1.00) !important;
+}
+
 .ttm-tabs.ttm-tab-style-vertical ul.tabs li.active a,
 .ttm-icon_element-border.ttm-icon_element-color-skincolor,
 .social-icons.circle li>a:hover ,

@@ -39,12 +39,37 @@
                             <div class="section-title with-desc clearfix">
                                 <div class="title-header">
                                     <h5>WHAT WE DO</h5>
-                                    <h2 class="title">We Have 25 Years Experience</h2>
+                                    <h2 class="title">McNas Communications</h2>
                                 </div>
-                                <div class="title-desc">We offer extensive medical procedures to outbound and inbound patients what it is and we are very proud of achievement of our stpatients for recovery</div>
+                                <div class="title-desc">McNas Communications Incorporated in Nigeria since the year 2000. The success story of the Firm is an example of a stable, dynamic and well focused staff with a deliberate policy of the development of appropriate personnel for effective delivery of services and integrity.</div>
+                                
+                                <div class="featured-title">
+                                    <h5>We offer the following services:</h5>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Advertising</span></li>
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Exclusive Gift Pack</span></li>
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Prints (Screen, Offset And Digital)</span></li>
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Digital And Offset Machine Supplier</span></li>
+                                            
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Distinctive Award</span></li>
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Strategic Branding Products</span></li>
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Website Design And Development</span></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="title-desc">The management is poised to enhanced it capacity build innovation into the fabric of the business by adopting all innovation practices. Again we stand out in our ability to continuously be network powered, data driven and hyper relevant.</div>
+                                <div class="title-desc">We defined a new way of doing things that add value, that allow organizations to unlock trapped value that will better position them for future success. We are going to disrupt the status quo and shape a new reality for their industries, but many feel unprepared for the level of potential disruption they face addressing endemic challenges.</div>
                             </div><!-- section title end -->
                             <!-- acadion -->
-                            <div class="accordion">
+                            {{-- <div class="accordion">
                                 <!-- toggle -->
                                 <div class="toggle">
                                     <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >Our Mission</a></div>
@@ -93,7 +118,7 @@
                                         </div>
                                     </div>
                                 </div><!-- toggle end -->
-                            </div><!-- acadion end-->
+                            </div><!-- acadion end--> --}}
                         </div>
                     </div>
                 </div>

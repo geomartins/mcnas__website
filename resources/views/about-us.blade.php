@@ -41,7 +41,7 @@
                                     <h5>WHAT WE DO</h5>
                                     <h2 class="title">McNas Communications</h2>
                                 </div>
-                                <div class="title-desc">McNas Communications Incorporated in Nigeria since the year 2000. The success story of the Firm is an example of a stable, dynamic and well focused staff with a deliberate policy of the development of appropriate personnel for effective delivery of services and integrity.</div>
+                                <div class="title-desc"> McNas Communications was Incorporated in the year 2000. Our success emanates from our dynamic, committed and creative staff who are focused on delivering value to our esteemed customers.</div>
                                 
                                 <div class="featured-title">
                                     <h5>We offer the following services:</h5>
@@ -52,7 +52,7 @@
                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Advertising</span></li>
                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Exclusive Gift Pack</span></li>
                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Prints (Screen, Offset And Digital)</span></li>
-                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Digital And Offset Machine Supplier</span></li>
+                                           
                                             
                                         </ul>
                                     </div>
@@ -60,13 +60,13 @@
                                         <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Distinctive Award</span></li>
                                             <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Strategic Branding Products</span></li>
-                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Website Design And Development</span></li>
+                                            <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Website Design </span></li>
                                             
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="title-desc">The management is poised to enhanced it capacity build innovation into the fabric of the business by adopting all innovation practices. Again we stand out in our ability to continuously be network powered, data driven and hyper relevant.</div>
-                                <div class="title-desc">We defined a new way of doing things that add value, that allow organizations to unlock trapped value that will better position them for future success. We are going to disrupt the status quo and shape a new reality for their industries, but many feel unprepared for the level of potential disruption they face addressing endemic challenges.</div>
+                                <div class="title-desc">Our management is poised to enhance the company’s capacity through continuous innovative practices through the application of technology so as to stand out in this industry.</div>
+                                {{-- <div class="title-desc">We defined a new way of doing things that add value, that allow organizations to unlock trapped value that will better position them for future success. We are going to disrupt the status quo and shape a new reality for their industries, but many feel unprepared for the level of potential disruption they face addressing endemic challenges.</div> --}}
                             </div><!-- section title end -->
                             <!-- acadion -->
                             <div class="accordion">
@@ -97,23 +97,32 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-9">
-                                                <p>To always surpass our previous service in creativity and Corporate branding. </p>
+                                                <p>To always surpass our previous services in creativity and Corporate branding. </p>
                                             </div>
                                         </div>
                                     </div>
                                 </div><!-- toggle end -->
                                 <!-- toggle -->
                                 <div class="toggle">
-                                    <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" >Our Stratagies</a></div>
+                                    <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" >Core Value</a></div>
                                     <div class="toggle-content">
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <div class="toggle-figure res-991-mb-15">
-                                                    <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="image">
-                                                </div>
+                                            <div class="col-md-6">
+                                                <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                                                    <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Consistence</span></li>
+                                                    <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Integrity</span></li>
+                                                    <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Team Work</span></li>
+        
+                                                    
+                                                </ul>
                                             </div>
-                                            <div class="col-sm-9">
-                                                <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
+                                            <div class="col-md-6">
+                                                <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                                                    <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Personal </span></li>
+                                                    <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Commitment</span></li>
+                                                    <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Creativity</span></li>
+                                                    
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
@@ -213,6 +222,145 @@
     </div>
 </section>
 <!-- fid-section end -->
+
+ <!--about-section-->
+ <section class="ttm-row about-section break-991-colum bg-img10 clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-xs-12">
+                <div class="pt-50 res-991-pt-0">
+                    <!-- section title -->
+                    <div class="section-title clearfix">
+                        <div class="title-header">
+                            <h2 class="title">Quality Policy Statement</h2>
+                        </div>
+                    </div><!-- section title end -->
+                    <div class="mb-30 clearfix">
+                        <p> We at  McNas Communications are dedicated
+                            to achieve Customer/ Client Satisfaction by
+                            Continually Improving service of excellent Quality.
+                            We will continue to strive for excellence in 
+                            Creativity, Unique Idea, Exciting products and 
+                            services, combine with prompt Delivery 
+                            and Competitive price through continuous
+                            Improvement in our 
+                            Quality Management System.
+                            </p>
+                    </div>
+                    <div class="testimonial-caption">
+                        <h5>"Yemi Bakare"</h5>
+                        <span>CEO</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <!-- ttm_single_image-wrapper -->
+                <div class="ttm_single_image-wrapper">
+                    <div class="pl-40 pb-40 ttm-bg-pattern text-right">
+                        <img class="img-fluid" src="images/single-img-one.jpg" alt="">
+                    </div>
+                    <!-- ttm-fid -->
+                    <div class="ttm-fid inside ttm-fid-with-icon ttm-fid-view-lefticon ttm-highlight-fid">
+                        <div class="ttm-fid-icon-wrapper">
+                            <i class="fa fa-hospital-o"></i>
+                        </div>
+                        <div class="ttm-fid-contents">
+                            <h4 class="ttm-fid-inner">
+                                <span   data-appear-animation="animateDigits" 
+                                        data-from="0" 
+                                        data-to="20" 
+                                        data-interval="5" 
+                                        data-before="" 
+                                        data-before-style="sup" 
+                                        data-after="+" 
+                                        data-after-style="sup">
+                                    20
+                                </span><sup>+</sup>
+                            </h4>
+                            <h3 class="ttm-fid-title"><span>Years Of<br>Experience<br></span></h3>
+                        </div>
+                    </div><!-- ttm-fid end -->
+                </div><!-- ttm_single_image-wrapper end -->
+            </div>
+        </div><!-- row end -->
+    </div>
+</section>
+<!--about-section end-->
+
+ <!--portfolio-section-->
+ <section class="ttm-row portfolio-section clearfix">
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-lg-9 col-md-12">
+                <!-- section-title -->
+                <div class="section-title with-desc clearfix">
+                    <div class="title-header">
+                        <h2 class="title">Clientele</h2>
+                    </div>
+                    <div class="title-desc">Our  reference of corporate entity and Individuals that had enjoyed our services In the  past and still savour their experience for engaging us are:</div>
+                </div><!-- section-title end -->
+            </div>
+        </div><!-- row end -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="sep_holder_box width-100 mt_5 mb-20 res-991-mt-0">
+                    <span class="sep_holder"><span class="sep_line"></span></span>
+                    <span class="sep_holder"><span class="sep_line"></span></span>
+                </div>
+            </div>
+        </div>
+        <!-- row -->
+        {{-- <div class="row multi-columns-row ttm-boxes-row-wrapper ttm-boxes-spacing-10px"> --}}
+            <div class="row">
+                <div class="col-md-3">
+                    <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content"> Lafarge Cement Wapco Nig. PLC.</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Boye  Komolafe & Co.</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">May & Baker PLC.</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Citizens Liberation Advocacy Initiative (CLAI)</span></li>
+
+                        
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Datab Oil & Gas Ltd.</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Skyward Nig Ltd.</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">NuVerus Africa Limited</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Top Flight School, Gbagada, Lagos</span></li>
+                        
+                        
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Hon. Shokoya Omowumi  </span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">CRELLIN </span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Excalibur Power & Gas Limited </span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Samdoro football Club  </span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content"> Hon. Abiodun Ayileka</span></li>
+
+                        
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <ul class="ttm-list ttm-list-style-icon ttm-list-icon-color-skincolor ttm-textcolor-darkgrey">
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content">Peace Consult Limited </span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content"> Aroaic  Nig. Limited</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content"> Col. O.O Soile etc</span></li>
+                        <li><i class="fa fa-arrow-circle-right"></i><span class="ttm-list-li-content"> R.C.C.G Gethsamane Parish</span></li>
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        
+        <!-- row end-->
+    </div>
+</section>
+<!--portfolio-section end-->
 
 <!--team-section-->
 <section class="ttm-row team-section clearfix">

@@ -69,7 +69,7 @@
                                 <div class="title-desc">We defined a new way of doing things that add value, that allow organizations to unlock trapped value that will better position them for future success. We are going to disrupt the status quo and shape a new reality for their industries, but many feel unprepared for the level of potential disruption they face addressing endemic challenges.</div>
                             </div><!-- section title end -->
                             <!-- acadion -->
-                            {{-- <div class="accordion">
+                            <div class="accordion">
                                 <!-- toggle -->
                                 <div class="toggle">
                                     <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >Our Mission</a></div>
@@ -81,7 +81,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-9">
-                                                <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
+                                                <p>To add value to customers satisfactions through the delivery of world class services at a price that represent value. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -97,7 +97,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-sm-9">
-                                                <p>Our Clinic has grown to provide a world class facility for the treatment of tooth loss, dental cosmetics and bore advanced restorative dentistry. We are among the most qualified implant providers in the AUS with over 30 years of quality training and experience.</p>
+                                                <p>To always surpass our previous service in creativity and Corporate branding. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -118,7 +118,7 @@
                                         </div>
                                     </div>
                                 </div><!-- toggle end -->
-                            </div><!-- acadion end--> --}}
+                            </div><!-- acadion end-->
                         </div>
                     </div>
                 </div>

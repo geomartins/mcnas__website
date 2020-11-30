@@ -619,7 +619,7 @@ section.error-404 .ttm-big-icon,
 .products .price .product-Price-amount,
 .products .star-ratings ul li,
 div.product .summary .star-rating {
-    color: #fff;
+    color: #a63994;
 }
 
 /** Skin-bg-color **/
@@ -1886,7 +1886,7 @@ ul.footer-nav-menu li:not(:last-child):after {
     z-index: 11;
 }
 .ttm-page-title-row.custom { 
-    margin-top: 3rem;
+    margin-top: 0rem;
 }
 @media (min-width:0px) and (max-width:500px){
     .ttm-page-title-row.custom { 

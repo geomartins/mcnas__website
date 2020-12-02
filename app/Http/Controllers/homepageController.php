@@ -88,8 +88,6 @@ class homepageController extends Controller
     }
 
 
-
-
     public function gallery(){
         $datas = \App\Repositories\Pick::getGallery();
 

@@ -61,7 +61,7 @@
                                 </div>
                                 <div class="ttm-product-image-box">
                                     {{-- <div class="onsale">Sale!</div> --}}
-                                    <img class="img-fluid" src="images/product/product-one.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/advertising.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -82,7 +82,7 @@
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <img class="img-fluid" src="images/product/product-two.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/branding.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -104,7 +104,7 @@
                                 </div>
                                 <div class="ttm-product-image-box">
                                     {{-- <div class="onsale">Sale!</div> --}}
-                                    <img class="img-fluid" src="images/product/product-three.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/pack.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -125,7 +125,7 @@
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <img class="img-fluid" src="images/product/product-four.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/award.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -147,7 +147,7 @@
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <img class="img-fluid" src="images/product/product-five.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/prints.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -169,7 +169,7 @@
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <img class="img-fluid" src="images/product/product-six.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/machine.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -192,7 +192,7 @@
                                    
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <img class="img-fluid" src="images/product/product-seven.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/website-development.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">
@@ -215,7 +215,7 @@
                                     </div>
                                 </div>
                                 <div class="ttm-product-image-box">
-                                    <img class="img-fluid" src="images/product/product-four.jpg" alt="">
+                                    <img class="img-fluid" src="images/product/mobile-development.jpg" alt="">
                                 </div>
                             </div><!-- ttm-product-box-inner end -->
                             <div class="ttm-product-content">

@@ -3,9 +3,9 @@
             <!-- START REVOLUTION SLIDER 5.4.8 auto mode -->
             <div id="rev_slider_4_3" class="rev_slider fullwidthabanner" data-version="5.4.8.2">
                 <ul>
-                    <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/slides/slider-mainbg-005.jpg"   data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/slides/mcnas-banner.jpg"   data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
-                        <img src="images/slides/slider-mainbg-005.jpg" alt="" title="mainslider-bg004" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                        <img src="images/slides/mcnas-banner.jpg" alt="" title="mainslider-bg004" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
                         <div class="tp-caption slide-main-text shape-rectangle tp-resizeme" id="slide-1-layer-2" data-x="['left','left','center','center']" data-hoffset="['50','40','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-109','-163','-141','-107']"
 
@@ -127,7 +127,7 @@
 
                     </li>
 
-                    <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/slides/slider-mainbg-006.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    {{-- <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/slides/slider-mainbg-006.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 
                         <img src="images/slides/slider-mainbg-006.jpg" alt="" title="mainslider-bg003" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
@@ -228,10 +228,8 @@
                             data-paddingleft="[30,30,30,25]">VIEW MORE DETAILS 
                         </a>
 
-                        
-
                        
-                    </li>
+                    </li> --}}
                 </ul>
             </div>
         </div>

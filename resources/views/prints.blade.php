@@ -55,7 +55,7 @@
                 <div class="col-lg-6 col-xs-12">
                     <!-- ttm_single_image-wrapper -->
                     <div class="ttm_single_image-wrapper text-right">
-                        <img class="img-fluid" src="images/single-img-twel.jpg" alt="">
+                        <img class="img-fluid" src="images/single-product/single-print.jpg" alt="">
                     </div>
                     <div class="about-overlay-shape">
                         <div class="row">

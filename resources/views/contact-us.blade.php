@@ -16,59 +16,6 @@
 
         <section class="ttm-row clearfix">
             <div class="container">
-                <div class="row ttm-boxes-row-wrapper">
-                    <div class="col-md-4 ttm-box-col-wrapper">
-                        <!-- ttm_single_image-wrapper -->
-                        <div class="ttm_single_image-wrapper mb-25">
-                            <img class="img-fluid" src="images/single-img-six.jpg" alt="">
-                        </div><!-- ttm_single_image-wrapper end -->
-                        <h4>New York Office</h4>
-                        <div class="sep_holder_box width-100">
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                        </div>
-                        <ul class="ttm_contact_widget_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>85455 Stonehill Lane Victoria, Apt 826,<br>United State</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@domainname.com">info@domainname.com</a></li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>(+01) 123 456 7890</li>
-                        </ul>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a>
-                    </div>
-                    <div class="col-md-4 ttm-box-col-wrapper">
-                        <!-- ttm_single_image-wrapper -->
-                        <div class="ttm_single_image-wrapper mb-25">
-                            <img class="img-fluid" src="images/single-img-seven.jpg" alt="">
-                        </div><!-- ttm_single_image-wrapper end -->
-                        <h4>Hampshire Office</h4>
-                        <div class="sep_holder_box width-100">
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                        </div>
-                        <ul class="ttm_contact_widget_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>85455 Stonehill Lane Victoria, Apt 826,<br>United State</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@domainname.com">info@domainname.com</a></li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>(+01) 123 456 7890</li>
-                        </ul>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a>
-                    </div>
-                    <div class="col-md-4 ttm-box-col-wrapper">
-                        <!-- ttm_single_image-wrapper -->
-                        <div class="ttm_single_image-wrapper mb-25">
-                            <img class="img-fluid" src="images/single-img-eight.jpg" alt="">
-                        </div><!-- ttm_single_image-wrapper end -->
-                        <h4>Pennsylvania Office</h4>
-                        <div class="sep_holder_box width-100">
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                            <span class="sep_holder"><span class="sep_line"></span></span>
-                        </div>
-                        <ul class="ttm_contact_widget_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i>85455 Stonehill Lane Victoria, Apt 826,<br>United State</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i><a href="mailto:info@domainname.com">info@domainname.com</a></li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-mobile"></i>(+01) 123 456 7890</li>
-                        </ul>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-skincolor btn-inline mb-10" href="#">LEARN MORE</a>
-                    </div>
-                </div><!-- row end -->
                 <div class="row pt-60 res-991-pt-0">
                     <div class="col-lg-8">
                         <div class="pr-40 res-991-pr-0 res-991-pb-30">
@@ -80,6 +27,7 @@
                             </div>
                             <!-- section-title end -->
                             <form id="ttm-contactform" class="ttm-contactform wrap-form style2 res-991-mt_15 clearfix" method="post" action="#">
+                                @{{ csrf_field() }}
                                 <div class="row">
                                     <div class="col-md-6">
                                         <label>Full Name *</label>

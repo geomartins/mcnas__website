@@ -130,29 +130,6 @@
 
     
 
-        <!--testimonial-section-->
-        <section class="ttm-row testimonial-section bg-img2 ttm-bg ttm-bgimage-yes ttm-bgcolor-darkgrey">
-            <div class="ttm-row-wrapper-bg-layer ttm-bg-layer"></div>
-            <div class="container">
-                <!-- row -->
-                <div class="row">
-                    <div class="col-lg-2"></div>
-                    <div class="col-lg-8 col-md-12">
-                        <!-- section-title -->
-                        <div class="section-title with-desc text-center clearfix">
-                            <div class="title-header">
-                                <h5>HAPPY CLIENTS</h5>
-                                <h2 class="title">What Our Patients Are Saying</h2>
-                            </div>
-                        </div><!-- section-title end -->
-                    </div>
-                    <div class="col-lg-2"></div>
-                </div><!-- row end -->
-                
-            </div>
-        </section>
-        <!-- testimonial-section end-->
-
 
     
 

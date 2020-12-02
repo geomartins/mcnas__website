@@ -96,6 +96,7 @@
                                                 <li><a href="/mobile-app-development">Mobile App Development</a></li>
                                                 </ul>
                                             </li>
+                                            <li><a href="/gallery">Gallery</a>
                                             <li><a href="/faq">Faq</a>
                                             <li><a href="/contact-us">Contact Us</a>
                                             

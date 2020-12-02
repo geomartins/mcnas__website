@@ -24,7 +24,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor" href="#">GET A APPOINTMENT!</a>
+                            <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-fill ttm-btn-color-skincolor" href="/book-appointment">GET A APPOINTMENT!</a>
                         </div>
                     </div>
                 </div>
@@ -143,7 +143,7 @@
                             </div>
                             <!-- ttm-info-widget end -->
                             <div class="ttm-contact">
-                                <span class="icon"><i class="fa fa-phone"></i></span>Toll Free : 1 123 456 78910
+                                <span class="icon"><i class="fa fa-phone"></i></span>Call Us : {{ config('app.telephone') }}
                             </div>
                         </div>
                     </div>

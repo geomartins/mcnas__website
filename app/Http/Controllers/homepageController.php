@@ -83,6 +83,7 @@ class homepageController extends Controller
     }
 
     public function book_appointment(){
+        
         return view('book_appointment');
     }
 

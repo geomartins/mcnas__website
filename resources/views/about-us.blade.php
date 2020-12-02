@@ -75,12 +75,7 @@
                                     <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" >Our Mission</a></div>
                                     <div class="toggle-content">
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <div class="toggle-figure res-991-mb-15">
-                                                    <img class="img-fluid" src="images/portfolio/post-one-1200x800.jpg" alt="image">
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-9">
+                                            <div class="col-sm-12">
                                                 <p>To add value to customers satisfactions through the delivery of world class services at a price that represent value. </p>
                                             </div>
                                         </div>
@@ -91,12 +86,7 @@
                                     <div class="toggle-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" >Our Vision</a></div>
                                     <div class="toggle-content">
                                         <div class="row">
-                                            <div class="col-sm-3">
-                                                <div class="toggle-figure res-991-mb-15">
-                                                    <img class="img-fluid" src="images/portfolio/post-two-1200x800.jpg" alt="image">
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-9">
+                                            <div class="col-sm-12">
                                                 <p>To always surpass our previous services in creativity and Corporate branding. </p>
                                             </div>
                                         </div>
@@ -577,27 +567,6 @@
             <div class="col-md-12">
                 <!-- ttm-client -->
                 <div class="ttm-client clients-slide owl-carousel owl-theme owl-loaded mt-5" data-item="5" data-nav="false" data-dots="false" data-auto="false">
-                    <div class="client-box ttm-box-view-logo">
-                        <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
-                            <div class="client-thumbnail">
-                                <img src="images/client/client-01.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="client-box ttm-box-view-logo">
-                        <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
-                            <div class="client-thumbnail">
-                                <img src="images/client/client-02.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="client-box ttm-box-view-logo">
-                        <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
-                            <div class="client-thumbnail">
-                                <img src="images/client/client-03.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
                     <div class="client-box ttm-box-view-logo">
                         <div class="ttm-client-logo-tooltip" data-tooltip="client-01">
                             <div class="client-thumbnail">

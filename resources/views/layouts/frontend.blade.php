@@ -10,7 +10,7 @@
 <title> @yield("title") </title>
 
 <!-- favicon icon -->
-<link rel="shortcut icon" href="images/favicon.jpeg" />
+<link rel="shortcut icon" href="images/favicon.png" />
 
 <!-- bootstrap -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>

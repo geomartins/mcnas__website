@@ -5797,7 +5797,7 @@ tp-caption.Team-Thumb,
 .tp-shapewrapper.border-dark{ background-color: rgba(1, 7, 17, 0.62); }
 
 
-.rev_slider_wrapper .zeus.tparrows {
+/* .rev_slider_wrapper .zeus.tparrows {
     cursor: pointer;
     min-width: 70px;
     min-height: 70px;
@@ -5808,7 +5808,7 @@ tp-caption.Team-Thumb,
     border-radius: 50%;
     overflow: hidden;
     background: rgba(0,0,0,0.1);
-}
+} */
 .rev_slider_wrapper .zeus .tp-title-wrap {
     background: rgba(0,0,0,0.5);
     width: 100%;

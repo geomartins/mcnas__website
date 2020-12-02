@@ -31,84 +31,84 @@ class Pick{
         $datas = collect([
             (object) [
                 'id' => '1',
-                'title' => 'Printing Machine',
+                'title' => 'Classic Pack',
                 'featured_image' => 'images/portfolio/gallery_1.jpg'
             ],
             (object) [
                 'id' => '2',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Medal',
                 'featured_image' => 'images/portfolio/gallery_2.jpg'
             ],
             (object) [
                 'id' => '3',
-                'title' => 'Printing Machine',
+                'title' => 'Desk Biro',
                 'featured_image' => 'images/portfolio/gallery_3.jpg'
             ],
             (object) [
                 'id' => '4',
-                'title' => 'Commisioning of Machine',
+                'title' => '3D Dome Sticker',
                 'featured_image' => 'images/portfolio/gallery_4.jpg'
             ],
 
             (object) [
                 'id' => '5',
-                'title' => 'Printing Machine',
+                'title' => 'Lapel, Cufflinks & Tie Clip',
                 'featured_image' => 'images/portfolio/gallery_5.jpg'
             ],
             (object) [
                 'id' => '6',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Mug',
                 'featured_image' => 'images/portfolio/gallery_6.jpg'
             ],
 
             (object) [
                 'id' => '4',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Promo Pack',
                 'featured_image' => 'images/portfolio/gallery_7.jpg'
             ],
 
             (object) [
                 'id' => '5',
-                'title' => 'Printing Machine',
+                'title' => 'Royal Branded Hamper',
                 'featured_image' => 'images/portfolio/gallery_8.jpg'
             ],
             (object) [
                 'id' => '6',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Keyring',
                 'featured_image' => 'images/portfolio/gallery_9.jpg'
             ],
 
             (object) [
                 'id' => '4',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Acrylic Award',
                 'featured_image' => 'images/portfolio/gallery_10.jpg'
             ],
 
             (object) [
                 'id' => '5',
-                'title' => 'Printing Machine',
+                'title' => 'Facial Tissue Box',
                 'featured_image' => 'images/portfolio/gallery_11.jpg'
             ],
             (object) [
                 'id' => '6',
-                'title' => 'Commisioning of Machine',
+                'title' => '6-in-1 Executive Pack',
                 'featured_image' => 'images/portfolio/gallery_12.jpg'
             ],
 
             (object) [
                 'id' => '4',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Call Card Case & Wristband',
                 'featured_image' => 'images/portfolio/gallery_13.jpg'
             ],
 
             (object) [
                 'id' => '5',
-                'title' => 'Printing Machine',
+                'title' => 'Point Of Sales',
                 'featured_image' => 'images/portfolio/gallery_14.jpg'
             ],
             (object) [
                 'id' => '6',
-                'title' => 'Commisioning of Machine',
+                'title' => 'Set of Pen',
                 'featured_image' => 'images/portfolio/gallery_15.jpg'
             ],
 

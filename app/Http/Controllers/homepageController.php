@@ -83,7 +83,7 @@ class homepageController extends Controller
     }
 
     public function book_appointment(){
-        
+
         return view('book_appointment');
     }
 
@@ -96,7 +96,7 @@ class homepageController extends Controller
         return view('gallery')->with('datas',$datas);
     }
     public function job_order(){
-        abort(404);
+        return view('job_order');
     }
     public function advertising(){
         return view('advertising');

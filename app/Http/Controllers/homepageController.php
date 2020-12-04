@@ -149,7 +149,7 @@ class homepageController extends Controller
     public function exclusive_gift_pack(){
 
         SEOTools::setTitle('Exclusive Gift Pack');
-        SEOTools::setDescription('Have you been looking for a way to surprise your loved ones in an affordable way? Let us make your wish come through with our affordable and exclusive gift packing package.');
+        SEOTools::setDescription('Gift pack branding, unique looks, branding of luxury items, modelling of gift pack, branding of gift items, customization of item and gift boxes. exclusive and exotic giftpack branding for weddings, inspirational ideas for custom packages, pen branding, table water customization, cup customization, mug customization, pillow customization, cloth customization, bed cover customization, all based on requirement and occasion.');
 
         return view('exclusive_gift_pack');
     }
@@ -157,7 +157,7 @@ class homepageController extends Controller
     public function distinctive_award(){
 
         SEOTools::setTitle('Distinctive Award');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('Innovative creation, presentable awards, creative wooden awards, exotic glass awards, ceramic awards, pure arts awards, iron model awards, sculpture design award, gold plated award for all occasions.');
 
         return view('distinctive_award');
     }
@@ -165,7 +165,7 @@ class homepageController extends Controller
     public function prints(){
 
         SEOTools::setTitle('Prints');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('Looking for where to print with an effective price and get quality for your money without breaking your bank? Let us handle your print works at an affordable price and get quality prints delivered directly to you. ');
 
         return view('prints');
     }
@@ -173,7 +173,7 @@ class homepageController extends Controller
     public function digital_offset_machine(){
 
         SEOTools::setTitle('Digital Offset Machine');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('Top verified and efficient printers, digital prints, offset prints, mass printing, clear printing, vibrant color prints, clear printing, durable prints, low cost prints, fast printing, quality printing, high quantity prints, special finishing process, any size prints, brochure prints, magazine prints, poster prints, stickers prints, flex prints, banner prints, billboard prints.');
 
         return view('digital_offset_machine');
     }
@@ -181,7 +181,7 @@ class homepageController extends Controller
     public function website_development(){
 
         SEOTools::setTitle('Website Development');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('We specialize in designing and developing functional, easy to use, responsive, search engine optimized, secured, optimized performance and fast load time, easy to navigate, user and mobile friendly websites.');
 
         return view('website_development');
     }
@@ -189,7 +189,7 @@ class homepageController extends Controller
     public function mobile_app_development(){
 
         SEOTools::setTitle('Mobile App Development');
-        SEOTools::setDescription('This is my page description');
+        SEOTools::setDescription('One of our specialized field is designing and developing functional, fast loading time and high performance, mobile platform compatible, flexible, secured, easy to navigate and user friendly mobile applications.');
 
        return view('mobile_app_development');
     }

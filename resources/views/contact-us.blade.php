@@ -27,7 +27,6 @@
                             </div>
                             <!-- section-title end -->
                             <form id="ttm-contactform" class="ttm-contactform wrap-form style2 res-991-mt_15 clearfix" method="post" action="#">
-                                @{{ csrf_field() }}
                                 <div class="row">
                                     <div class="col-md-6">
                                         <label>Full Name *</label>

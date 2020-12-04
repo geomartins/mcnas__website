@@ -24,7 +24,7 @@
                             <div class="layer-content">
                             </div>
                         </div><!-- col-bg-img-three end -->
-                        <img src="images/bg-image/col-bgimage-3.jpg" class="ttm-equal-height-image" alt="bg-image">
+                        {{-- <img src="images/bg-image/col-bgimage-3.jpg" class="ttm-equal-height-image" alt="bg-image"> --}}
                     </div>
                     <div class="col-md-7">
                         <div class="spacing-4 ttm-bgcolor-white">

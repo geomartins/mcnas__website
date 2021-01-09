@@ -19,7 +19,7 @@ return [
     'opening_hour' => 'Mon - Sat 8.00 - 18.00. ', 
 
 
-    'address_1' => 'Suite 23c, jehovah shammah piaza. Abiodun jagun st. ',
+    'address_1' => 'xxxx ',
     'address_2' => 'Ogba. Ikeja.',
     'facebook' => '',
     'twitter' => '',

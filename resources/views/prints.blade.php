@@ -94,35 +94,31 @@
                 </div>
                 <div class="col-lg-2 col-md-2"></div>
             </div><!-- row end -->
-            <div class="row">
-                <div class="col-md-4 col-sm-4">
-                    <!-- ttm_single_image-wrapper -->
-                    <div class="ttm_single_image-wrapper res-575-mb-15">
-                         <div class="twentytwenty-container">
-                            <img src="images/after-img-one.jpg" alt="before" >
-                            <img src="images/before-img-one.jpg" alt="after" >
+            <section id="depertment" class="bg-silver-light">
+                <div class="container">
+                  <div class="section-content">
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
+                        <div class="p-20 bg-white">
+                          <img src="images/category-product/print_1.jpg" alt="">
                         </div>
-                    </div><!-- ttm_single_image-wrapper end -->
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <!-- ttm_single_image-wrapper -->
-                    <div class="ttm_single_image-wrapper res-575-mb-15">
-                         <div class="twentytwenty-container">
-                            <img src="images/after-img-two.jpg" alt="before" >
-                            <img src="images/before-img-two.jpg" alt="after" >
+                      </div>
+          
+                      <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
+                        <div class="p-20 bg-white">
+                          <img src="images/category-product/print_2.jpg" alt="">
                         </div>
-                    </div><!-- ttm_single_image-wrapper end -->
-                </div>
-                <div class="col-md-4 col-sm-4">
-                    <!-- ttm_single_image-wrapper -->
-                    <div class="ttm_single_image-wrapper">
-                         <div class="twentytwenty-container">
-                            <img src="images/after-img-one.jpg" alt="before" >
-                            <img src="images/before-img-one.jpg" alt="after" >
+                      </div>
+          
+                      <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
+                        <div class="p-20 bg-white">
+                          <img src="images/category-product/print_3.jpg" alt="">
                         </div>
-                    </div><!-- ttm_single_image-wrapper end -->
+                      </div>
+                    </div>
+                  </div>
                 </div>
-            </div>
+            </section>
         </div>
     </section>
 

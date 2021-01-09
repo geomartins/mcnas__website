@@ -383,6 +383,20 @@
                             </div>
                         </div>
                     </div>
+                    <div class="client-box ttm-box-view-logo">
+                        <div class="ttm-client-logo-tooltip" data-tooltip="client-02">
+                            <div class="client-thumbnail">
+                                <img src="images/client/client-04.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="client-box ttm-box-view-logo">
+                        <div class="ttm-client-logo-tooltip" data-tooltip="client-03">
+                            <div class="client-thumbnail">
+                                <img src="images/client/client-05.png" alt="image">
+                            </div>
+                        </div>
+                    </div>
                 </div><!-- ttm-client end -->      
             </div>
         </div><!-- row end -->

@@ -39,7 +39,7 @@
                                 <!-- site-branding -->
                                 <div class="site-branding">
                                     <a class="home-link" href="/" title="{{ config('app.name') }}" rel="home">
-                                        <img id="logo-img" class="img-center" src="images/logo.png" alt="logo-img">
+                                        <img id="logo-img" class="img-center" src="images/mcnas-logo.png" alt="logo-img">
                                     </a>
                                 </div><!-- site-branding end -->
                                 <!--site-navigation -->
@@ -96,6 +96,7 @@
                                                 <li><a href="/mobile-app-development">Mobile App Development</a></li>
                                                 </ul>
                                             </li>
+                                            <li><a href="/gallery">Gallery</a>
                                             <li><a href="/faq">Faq</a>
                                             <li><a href="/contact-us">Contact Us</a>
                                             

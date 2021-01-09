@@ -15,12 +15,12 @@ return [
 
     'name' => env('APP_NAME', 'Mcnas'),
     'email' => 'support@mcnas.com.ng',
-    'telephone' => '+234 802 314 8336',
+    'telephone' => '+234 802 314 8336', 
     'opening_hour' => 'Mon - Sat 8.00 - 18.00. ', 
 
 
-    'address_1' => '14, Akiode Str, Ojodu Berger',
-    'address_2' => 'Lagos Nigeria',
+    'address_1' => 'Suite 23c, jehovah shammah piaza. Abiodun jagun st. ',
+    'address_2' => 'Ogba. Ikeja.',
     'facebook' => '',
     'twitter' => '',
     'instagram' => '',
